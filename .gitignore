@@ -37,3 +37,4 @@ target/*
 _site/
 .DS_Store
 *.DS_Store
+*.jpb
