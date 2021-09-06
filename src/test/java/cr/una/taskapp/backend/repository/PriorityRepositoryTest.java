@@ -1,9 +1,7 @@
-package cr.una.taskapp.backend.dao;
+package cr.una.taskapp.backend.repository;
 
 
 import cr.una.taskapp.backend.model.Priority;
-import cr.una.taskapp.backend.repository.PriorityRepository;
-import javassist.NotFoundException;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

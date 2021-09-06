@@ -4,13 +4,11 @@
  * mike@guzmanalan.com
  */
 
-package cr.una.taskapp.backend.dao;
+package cr.una.taskapp.backend.repository;
 
 import cr.una.taskapp.backend.model.Status;
 import cr.una.taskapp.backend.model.Task;
 import cr.una.taskapp.backend.model.User;
-import cr.una.taskapp.backend.repository.PriorityRepository;
-import cr.una.taskapp.backend.repository.TaskRepository;
 import org.joda.time.DateTime;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
